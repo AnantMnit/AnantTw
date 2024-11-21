@@ -54,7 +54,7 @@ When I'm not coding, you’ll find me reading tech blogs, experimenting with new
 #### Full Stack Developer Intern  
 **ABC Technologies** | June 2025 - December 2025  
 - Developed dynamic websites using React for front-end and Node.js for back-end.  
-- Designed and implemented RESTful APIs to integrate front-end and back-end components.
+
 
 #### Freelance Web Developer  
 - Built and deployed websites for small businesses using WordPress and custom PHP development.
