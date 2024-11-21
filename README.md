@@ -19,7 +19,7 @@ The vector dot product is a fundamental operation in linear algebra that calcula
 # Quote from the great XYZ
 
 > "The dot product is a crucial operation in mathematics, providing insights into vector relationships and geometry."
-As [XYZ] writes on the [ABC site][df1]
+
 
 
 This text you see here is *actually- written in Markdown! To get a feel
