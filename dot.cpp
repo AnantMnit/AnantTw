@@ -10,6 +10,7 @@ int main()
 	{
 		v3[i] = v1[i]*v2[i];
 	}
+	// new change 
 
 	cout<<"Successfully done"<<endl;
 
